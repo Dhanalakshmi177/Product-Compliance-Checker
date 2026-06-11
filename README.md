@@ -39,13 +39,19 @@ Product Compliance Checker bridges the gap between raw compliance data and actio
 Streamlit             https://docs.streamlit.io
 
 FAISS                 https://github.com/facebookresearch/faiss
+
 Sentence-Transformers   https://www.sbert.net
+
 Hugging Face Transformers    https://huggingface.co/docs/transformers
+
 Qwen2.5-0.5B Model         https://huggingface.co/Qwen/Qwen2.5-0.5B
+
 PyTorch                   https://pytorch.org/docs
+
 Pandas                    https://pandas.pydata.org/docs
+
+
 RAG (Retrieval-Augmented Generation)    https://huggingface.co/blog/rag
+
 FAISS Documentation        https://faiss.ai
-Select any retrieved record and edit its attributes — hazard type, safety warning, certifications, age restriction, regulatory body, compliance status
-The Compliance Decision (✅ Compliant / ❌ Non-Compliant / ⚠️ Needs Review) updates live without re-running the search
-Switch to the AI Chatbot tab and ask natural language questions about the product — the LLM responds based on the retrieved records
+
