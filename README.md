@@ -37,6 +37,7 @@ Product Compliance Checker bridges the gap between raw compliance data and actio
 # Reference Links
 
 Streamlit             https://docs.streamlit.io
+
 FAISS                 https://github.com/facebookresearch/faiss
 Sentence-Transformers   https://www.sbert.net
 Hugging Face Transformers    https://huggingface.co/docs/transformers
